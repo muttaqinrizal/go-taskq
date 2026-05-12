@@ -1,6 +1,6 @@
 # Distributed Task Queue (Golang)
 
-This is a high-performance distributed task queue / job scheduler built with Golang and Redis, showcasing Clean Architecture and concurrency best practices. It serves as an excellent portfolio project for a Senior Software Engineer.
+This is a high-performance distributed task queue / job scheduler built with Golang and Redis
 
 ## Features
 - **Clean Architecture:** Domain, Delivery, and Infrastructure layers.
